@@ -1,0 +1,5 @@
+﻿  laba25.cpp
+C:\Users\lenovo\Desktop\laba25\laba25\laba25.cpp(41,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\laba25\laba25\laba25.cpp(45,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\laba25\laba25\laba25.cpp(65,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  laba25.vcxproj -> C:\Users\lenovo\Desktop\laba25\Debug\laba25.exe

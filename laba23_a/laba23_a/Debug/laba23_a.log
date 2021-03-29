@@ -1,0 +1,3 @@
+﻿  laba23_a.cpp
+C:\Users\lenovo\Desktop\laba23_a\laba23_a\laba23_a.cpp(97,35): warning C4305: аргумент: усечение из "char" в "bool"
+  laba23_a.vcxproj -> C:\Users\lenovo\Desktop\laba23_a\Debug\laba23_a.exe

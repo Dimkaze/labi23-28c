@@ -1,0 +1,5 @@
+﻿  laba26.cpp
+C:\Users\lenovo\Desktop\laba26\laba26\laba26.cpp(95,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\laba26\laba26\laba26.cpp(100,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\laba26\laba26\laba26.cpp(140,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  laba26.vcxproj -> C:\Users\lenovo\Desktop\laba26\Debug\laba26.exe

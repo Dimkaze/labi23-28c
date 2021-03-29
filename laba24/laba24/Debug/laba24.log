@@ -1,0 +1,4 @@
+﻿  laba24.cpp
+C:\Users\lenovo\Desktop\laba24\laba24\laba24.cpp(33,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\laba24\laba24\laba24.cpp(75,12): warning C4930: Circle ZX(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  laba24.vcxproj -> C:\Users\lenovo\Desktop\laba24\Debug\laba24.exe
