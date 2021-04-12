@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\lenovo\Desktop\LabChart\LabChart\MyForm2.h(129,32): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Desktop\LabChart\LabChart\MyForm.h(151,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\Desktop\LabChart\LabChart\MyForm.h(155,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\Desktop\LabChart\LabChart\MyForm.h(160,37): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabChart.vcxproj -> C:\Users\lenovo\Desktop\LabChart\Debug\LabChart.exe

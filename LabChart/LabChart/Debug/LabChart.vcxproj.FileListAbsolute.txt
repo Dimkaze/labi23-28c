@@ -1,0 +1,4 @@
+C:\Users\lenovo\Desktop\LabChart\LabChart\Debug\LabChart.vcxprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\LabChart\LabChart\Debug\LabChart.MyForm.resources
+C:\Users\lenovo\Desktop\LabChart\LabChart\Debug\LabChart.vcxproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\LabChart\LabChart\Debug\LabChart.MyForm2.resources

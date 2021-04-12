@@ -1,0 +1,4 @@
+C:\Users\lenovo\Desktop\laba30clr0chka\laba30clr0chka\Debug\laba30clr0chka.vcxprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\laba30clr0chka\laba30clr0chka\Debug\laba30clr0chka.Form1.resources
+C:\Users\lenovo\Desktop\laba30clr0chka\laba30clr0chka\Debug\laba30clr0chka.Form2.resources
+C:\Users\lenovo\Desktop\laba30clr0chka\laba30clr0chka\Debug\laba30clr0chka.vcxproj.GenerateResource.cache
